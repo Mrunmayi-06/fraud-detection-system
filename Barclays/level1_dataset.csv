@@ -1,0 +1,45 @@
+text,label
+"Please review the attached invoice before the meeting tomorrow.",0
+"Your account needs immediate verification to avoid service disruption.",1
+"Kindly update your contact details in the internal system.",0
+"The package could not be delivered due to incorrect address.",0
+"We noticed unusual activity and recommend resetting your password.",1
+"Schedule a discussion about quarterly performance metrics.",0
+"To continue using services, validate credentials through the portal.",1
+"The document was shared for collaboration and comments.",0
+"Confirm your identity to maintain uninterrupted access.",1
+"Team lunch is planned after the project review session.",0
+"Many users forget how passwords expire when access delays happen.",1
+"Verification steps exist because attackers imitate trusted systems.",1
+"Our internal notice reminds staff that login pages can be spoofed.",1
+"Security policies mention that links may redirect silently.",1
+"Employees should treat unexpected credentials requests carefully.",1
+"A meeting agenda was sent with a hidden redirect link inside.",1
+"System alerts are sometimes disguised as friendly reminders.",1
+"Instructions were divided into small segments for clarity.",1
+"Login confirmation should never be shared externally.",1
+"External vendors sometimes send masked URLs in emails.",1
+"Click here to verify your account: http://secure-login-bank.com",1
+"Reset your password at https://bit.ly/3xYzAbC",1
+"Visit our official site https://www.mybank.com for updates.",0
+"Download the invoice from https://drive.google.com/file/123",0
+"Your account is locked, login at http://bank-security-check.net",1
+"The database password is admin12345",1
+"My email login password is P@ssw0rd2024",1
+"AWS key is AKIAIOSFODNN7EXAMPLE",1
+"Here is my API key sk-9d8f7s6df5sdf4sdf3sdf2",1
+"Bearer token is Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",1
+"User=admin Password=letmein123",1
+"The system secret key is ghp_7fgh8fgh8fgh8fgh8fgh8fgh8fgh8fgh8fgh",1
+"JWT token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e30.signature",1
+"My database pwd = root@1234",1
+"Please update your password regularly.",0
+"Do not share your login credentials with anyone.",0
+"The system uses encrypted passwords.",0
+"Our security policy forbids storing passwords in plain text.",0
+"Never send your password by email.",0
+"This document explains how to reset your password.",0
+"Credentials must be rotated every 90 days.",0
+"The login system uses token-based authentication.",0
+"Passwords are stored securely using hashing.",0
+"Users should enable two factor authentication.",0

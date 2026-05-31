@@ -1,0 +1,221 @@
+2026-02-16 16:02:55,667 - ERROR - System prompt file 'prompt.txt' not found!
+2026-02-17 14:15:57,919 - ERROR - System prompt file 'prompt.txt' not found!
+2026-02-17 14:18:53,482 - ERROR - System prompt file 'prompt.txt' not found!
+2026-02-17 14:19:44,298 - INFO - System prompt loaded successfully
+2026-02-17 14:19:47,682 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 14:19:47,682 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 14:19:47,702 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:19:47,966 - INFO - System prompt loaded successfully
+2026-02-17 14:19:50,026 - WARNING -  * Debugger is active!
+2026-02-17 14:19:50,029 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:20:30,855 - INFO - 127.0.0.1 - - [17/Feb/2026 14:20:30] "[33mGET / HTTP/1.1[0m" 404 -
+2026-02-17 14:20:30,885 - INFO - 127.0.0.1 - - [17/Feb/2026 14:20:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-17 14:28:31,356 - INFO - System prompt loaded successfully
+2026-02-17 14:28:34,716 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 14:28:34,716 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 14:28:34,727 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:28:34,953 - INFO - System prompt loaded successfully
+2026-02-17 14:28:37,059 - WARNING -  * Debugger is active!
+2026-02-17 14:28:37,061 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:29:37,442 - INFO - 127.0.0.1 - - [17/Feb/2026 14:29:37] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 14:29:37,709 - INFO - Analyzing input (length: 70 chars)
+2026-02-17 14:29:39,785 - ERROR - Ollama API error: 404
+2026-02-17 14:29:39,786 - INFO - 127.0.0.1 - - [17/Feb/2026 14:29:39] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 14:33:29,088 - INFO -  * Detected change in 'C:\\Users\\ISHWARI\\OneDrive\\Desktop\\genai-fraud-detector\\app.py', reloading
+2026-02-17 14:33:29,124 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:42:30,681 - INFO - System prompt loaded successfully
+2026-02-17 14:42:34,053 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 14:42:34,053 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 14:42:34,067 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:42:34,298 - INFO - System prompt loaded successfully
+2026-02-17 14:42:36,383 - WARNING -  * Debugger is active!
+2026-02-17 14:42:36,389 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:46:16,753 - INFO - Analyzing input (length: 32 chars)
+2026-02-17 14:49:18,809 - ERROR - Request timeout
+2026-02-17 14:49:18,812 - INFO - 127.0.0.1 - - [17/Feb/2026 14:49:18] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 14:52:58,559 - INFO -  * Detected change in 'C:\\Program Files\\Python310\\Lib\\concurrent\\__init__.py', reloading
+2026-02-17 14:52:58,649 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:52:59,077 - INFO - System prompt loaded successfully
+2026-02-17 14:53:01,157 - WARNING -  * Debugger is active!
+2026-02-17 14:53:01,159 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:53:01,223 - INFO -  * Detected change in 'C:\\Users\\ISHWARI\\AppData\\Roaming\\Python\\Python310\\site-packages\\jinja2\\utils.py', reloading
+2026-02-17 14:53:01,284 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:53:01,604 - INFO - System prompt loaded successfully
+2026-02-17 14:53:03,691 - WARNING -  * Debugger is active!
+2026-02-17 14:53:03,695 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:53:03,721 - INFO -  * Detected change in 'C:\\Users\\ISHWARI\\AppData\\Roaming\\Python\\Python310\\site-packages\\scipy\\interpolate\\_fitpack2.py', reloading
+2026-02-17 14:53:03,754 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:53:04,106 - INFO - System prompt loaded successfully
+2026-02-17 14:53:06,184 - WARNING -  * Debugger is active!
+2026-02-17 14:53:06,187 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:53:06,208 - INFO -  * Detected change in 'C:\\Users\\ISHWARI\\AppData\\Roaming\\Python\\Python310\\site-packages\\urllib3\\util\\timeout.py', reloading
+2026-02-17 14:53:06,286 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 14:53:06,589 - INFO - System prompt loaded successfully
+2026-02-17 14:53:08,660 - WARNING -  * Debugger is active!
+2026-02-17 14:53:08,671 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 14:54:52,322 - INFO - 127.0.0.1 - - [17/Feb/2026 14:54:52] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 14:54:52,589 - INFO - Analyzing input (length: 173 chars)
+2026-02-17 14:57:54,669 - ERROR - Request timeout
+2026-02-17 14:57:54,670 - INFO - 127.0.0.1 - - [17/Feb/2026 14:57:54] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:02:29,038 - INFO -  * Detected change in 'c:\\Users\\ISHWARI\\OneDrive\\Desktop\\genai-fraud-detector\\app.py', reloading
+2026-02-17 15:02:29,142 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:02:29,737 - INFO - System prompt loaded successfully
+2026-02-17 15:02:31,815 - WARNING -  * Debugger is active!
+2026-02-17 15:02:31,819 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:02:42,935 - INFO -  * Detected change in 'c:\\Users\\ISHWARI\\OneDrive\\Desktop\\genai-fraud-detector\\app.py', reloading
+2026-02-17 15:02:42,988 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:03:13,276 - INFO - System prompt loaded successfully
+2026-02-17 15:03:16,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 15:03:16,653 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 15:03:16,653 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:03:16,903 - INFO - System prompt loaded successfully
+2026-02-17 15:03:18,987 - WARNING -  * Debugger is active!
+2026-02-17 15:03:18,988 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:05:09,626 - INFO - System prompt loaded successfully
+2026-02-17 15:05:13,069 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 15:05:13,070 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 15:05:13,084 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:05:13,337 - INFO - System prompt loaded successfully
+2026-02-17 15:05:15,417 - WARNING -  * Debugger is active!
+2026-02-17 15:05:15,430 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:05:45,731 - INFO - 127.0.0.1 - - [17/Feb/2026 15:05:45] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:05:45,998 - INFO - Analyzing input (length: 181 chars)
+2026-02-17 15:10:48,077 - ERROR - Request timeout
+2026-02-17 15:10:48,079 - INFO - 127.0.0.1 - - [17/Feb/2026 15:10:48] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:18:37,502 - INFO - System prompt loaded successfully
+2026-02-17 15:18:40,892 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 15:18:40,892 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 15:18:40,900 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:18:41,140 - INFO - System prompt loaded successfully
+2026-02-17 15:18:43,210 - WARNING -  * Debugger is active!
+2026-02-17 15:18:43,213 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:19:06,330 - INFO - 127.0.0.1 - - [17/Feb/2026 15:19:06] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:19:06,573 - INFO - Analyzing input (length: 181 chars)
+2026-02-17 15:19:37,791 - INFO - Response received from Ollama
+2026-02-17 15:19:37,791 - INFO - Analysis complete - Score: 90, Tier: CRITICAL
+2026-02-17 15:19:37,792 - INFO - 127.0.0.1 - - [17/Feb/2026 15:19:37] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:21:54,754 - INFO - 127.0.0.1 - - [17/Feb/2026 15:21:54] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:21:55,003 - INFO - Analyzing input (length: 25 chars)
+2026-02-17 15:22:07,713 - INFO - Response received from Ollama
+2026-02-17 15:22:07,714 - INFO - Analysis complete - Score: 100, Tier: CRITICAL
+2026-02-17 15:22:07,715 - INFO - 127.0.0.1 - - [17/Feb/2026 15:22:07] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:23:04,398 - INFO - 127.0.0.1 - - [17/Feb/2026 15:23:04] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:23:04,652 - INFO - Analyzing input (length: 127 chars)
+2026-02-17 15:23:28,674 - INFO - Response received from Ollama
+2026-02-17 15:23:28,674 - ERROR - Failed to parse JSON: Invalid control character at: line 39 column 18 (char 475)
+2026-02-17 15:23:28,675 - INFO - 127.0.0.1 - - [17/Feb/2026 15:23:28] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:23:56,688 - INFO - 127.0.0.1 - - [17/Feb/2026 15:23:56] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:23:56,996 - INFO - Analyzing input (length: 73 chars)
+2026-02-17 15:24:10,848 - INFO - Response received from Ollama
+2026-02-17 15:24:10,849 - INFO - Analysis complete - Score: 80, Tier: HIGH
+2026-02-17 15:24:10,849 - INFO - 127.0.0.1 - - [17/Feb/2026 15:24:10] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:30:13,912 - INFO - System prompt loaded successfully
+2026-02-17 15:30:17,281 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 15:30:17,281 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 15:30:17,322 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:30:17,705 - INFO - System prompt loaded successfully
+2026-02-17 15:30:19,829 - WARNING -  * Debugger is active!
+2026-02-17 15:30:19,833 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:30:59,564 - INFO - 127.0.0.1 - - [17/Feb/2026 15:30:59] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:30:59,836 - INFO - Analyzing input (length: 25 chars)
+2026-02-17 15:31:26,547 - INFO - Response received from Ollama
+2026-02-17 15:31:26,547 - INFO - Analysis complete - Score: 100, Tier: CRITICAL
+2026-02-17 15:31:26,552 - INFO - 127.0.0.1 - - [17/Feb/2026 15:31:26] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:36:01,661 - INFO -  * Detected change in 'c:\\Users\\ISHWARI\\OneDrive\\Desktop\\genai-fraud-detector\\app.py', reloading
+2026-02-17 15:36:01,758 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:36:39,578 - INFO - System prompt loaded successfully
+2026-02-17 15:36:43,171 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.29.3:5000
+2026-02-17 15:36:43,171 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-17 15:36:43,211 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:36:43,684 - INFO - System prompt loaded successfully
+2026-02-17 15:36:45,798 - WARNING -  * Debugger is active!
+2026-02-17 15:36:45,810 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:38:04,419 - INFO - 127.0.0.1 - - [17/Feb/2026 15:38:04] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:38:04,676 - INFO - Analyzing input (length: 44 chars)
+2026-02-17 15:38:32,376 - INFO - Response received from Ollama
+2026-02-17 15:38:32,379 - INFO - Analysis complete - Score: 100, Tier: CRITICAL
+2026-02-17 15:38:32,380 - INFO - 127.0.0.1 - - [17/Feb/2026 15:38:32] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:41:10,622 - INFO - 127.0.0.1 - - [17/Feb/2026 15:41:10] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:41:10,885 - INFO - Analyzing input (length: 44 chars)
+2026-02-17 15:41:24,022 - INFO - Response received from Ollama
+2026-02-17 15:41:24,022 - INFO - Analysis complete - Score: 100, Tier: CRITICAL
+2026-02-17 15:41:24,024 - INFO - 127.0.0.1 - - [17/Feb/2026 15:41:24] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:43:20,289 - INFO - 127.0.0.1 - - [17/Feb/2026 15:43:20] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:43:20,545 - INFO - Analyzing input (length: 181 chars)
+2026-02-17 15:43:36,369 - INFO - Response received from Ollama
+2026-02-17 15:43:36,370 - INFO - Analysis complete - Score: 90, Tier: CRITICAL
+2026-02-17 15:43:36,370 - INFO - 127.0.0.1 - - [17/Feb/2026 15:43:36] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:44:43,491 - INFO - 127.0.0.1 - - [17/Feb/2026 15:44:43] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:44:43,742 - INFO - Analyzing input (length: 1027 chars)
+2026-02-17 15:45:09,213 - INFO - Response received from Ollama
+2026-02-17 15:45:09,215 - INFO - Analysis complete - Score: 100, Tier: CRITICAL
+2026-02-17 15:45:09,216 - INFO - 127.0.0.1 - - [17/Feb/2026 15:45:09] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:45:54,108 - INFO - 127.0.0.1 - - [17/Feb/2026 15:45:54] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:45:54,359 - INFO - Analyzing input (length: 969 chars)
+2026-02-17 15:46:13,330 - INFO - Response received from Ollama
+2026-02-17 15:46:13,332 - INFO - Analysis complete - Score: 10, Tier: LOW
+2026-02-17 15:46:13,332 - INFO - 127.0.0.1 - - [17/Feb/2026 15:46:13] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:48:22,240 - INFO - 127.0.0.1 - - [17/Feb/2026 15:48:22] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:48:22,494 - INFO - Analyzing input (length: 1223 chars)
+2026-02-17 15:49:23,167 - INFO - Response received from Ollama
+2026-02-17 15:49:23,167 - ERROR - Failed to parse JSON: Invalid control character at: line 9 column 142 (char 282)
+2026-02-17 15:49:23,171 - INFO - 127.0.0.1 - - [17/Feb/2026 15:49:23] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:49:53,725 - INFO - 127.0.0.1 - - [17/Feb/2026 15:49:53] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:49:53,982 - INFO - Analyzing input (length: 73 chars)
+2026-02-17 15:50:09,301 - INFO - Response received from Ollama
+2026-02-17 15:50:09,301 - INFO - Analysis complete - Score: 80, Tier: HIGH
+2026-02-17 15:50:09,303 - INFO - 127.0.0.1 - - [17/Feb/2026 15:50:09] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:55:54,331 - INFO -  * Detected change in 'c:\\Users\\ISHWARI\\OneDrive\\Desktop\\genai-fraud-detector\\tests\\test_cases.py', reloading
+2026-02-17 15:55:54,445 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-17 15:55:54,850 - INFO - System prompt loaded successfully
+2026-02-17 15:55:57,000 - WARNING -  * Debugger is active!
+2026-02-17 15:55:57,000 - INFO -  * Debugger PIN: 407-534-084
+2026-02-17 15:58:49,785 - INFO - 127.0.0.1 - - [17/Feb/2026 15:58:49] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 15:58:50,037 - INFO - Analyzing input (length: 73 chars)
+2026-02-17 15:59:32,134 - INFO - Response received from Ollama
+2026-02-17 15:59:32,136 - INFO - Analysis complete - Score: 80, Tier: N/A
+2026-02-17 15:59:32,138 - INFO - 127.0.0.1 - - [17/Feb/2026 15:59:32] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 16:07:07,885 - INFO - 127.0.0.1 - - [17/Feb/2026 16:07:07] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 16:07:08,138 - INFO - Analyzing input (length: 72 chars)
+2026-02-17 16:07:42,852 - INFO - Response received from Ollama
+2026-02-17 16:07:42,852 - INFO - Analysis complete - Score: 80, Tier: N/A
+2026-02-17 16:07:42,856 - INFO - 127.0.0.1 - - [17/Feb/2026 16:07:42] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 16:15:34,246 - INFO - 127.0.0.1 - - [17/Feb/2026 16:15:34] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 16:15:34,487 - INFO - Analyzing input (length: 72 chars)
+2026-02-17 16:16:18,559 - INFO - Response received from Ollama
+2026-02-17 16:16:18,560 - INFO - Analysis complete - Score: 80, Tier: CRITICAL
+2026-02-17 16:16:18,562 - INFO - 127.0.0.1 - - [17/Feb/2026 16:16:18] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-17 16:16:40,765 - INFO - 127.0.0.1 - - [17/Feb/2026 16:16:40] "OPTIONS /api/analyze HTTP/1.1" 200 -
+2026-02-17 16:16:41,029 - INFO - Analyzing input (length: 72 chars)
+2026-02-17 16:16:55,113 - INFO - Response received from Ollama
+2026-02-17 16:16:55,113 - INFO - Analysis complete - Score: 80, Tier: N/A
+2026-02-17 16:16:55,115 - INFO - 127.0.0.1 - - [17/Feb/2026 16:16:55] "POST /api/analyze HTTP/1.1" 200 -
+2026-02-18 00:20:45,704 - INFO -  * Detected change in 'C:\\Users\\ISHWARI\\AppData\\Roaming\\Python\\Python310\\site-packages\\flask\\__init__.py', reloading
+2026-02-18 00:20:45,899 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-18 00:20:46,474 - INFO - System prompt loaded successfully
+2026-02-18 00:20:48,546 - WARNING -  * Debugger is active!
+2026-02-18 00:20:48,560 - INFO -  * Debugger PIN: 407-534-084
